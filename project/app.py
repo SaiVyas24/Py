@@ -24,4 +24,4 @@ if st.button("Add Student"):
         st.dataframe(df)
 
 st.write("You can manage student records here.")
-st.write("This is a simple app to demonstrate Streamlit capabilities.")
+st.write("This is a simple app to demonstrate Streamlit capabilities..")
